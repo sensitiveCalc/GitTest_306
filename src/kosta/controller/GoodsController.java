@@ -11,6 +11,6 @@ public class GoodsController {
 	}
 
 	public void selectAll() {
-		
+		System.out.println("클론 프로젝트 수정중");
 	}
 }
