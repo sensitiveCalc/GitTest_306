@@ -8,4 +8,7 @@ public class GoodsService {
 		System.out.println("select 메서드..");
 		System.out.println("시나리오 3번 test");
 	}
+	public void update() {
+		System.out.println("로컬에서 update 수정");
+	}
 }
