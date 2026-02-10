@@ -1,5 +1,0 @@
-2026/02/09-17:41:22.658 3db4 Log #3: 2 ops saved to Table #4 OK
-2026/02/09-17:41:22.666 3db4 Archiving C:\Edu\JAVA\Git_GitHub\Git_work\GitTest_306\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Site Characteristics Database/000003.log: OK
-2026/02/09-17:41:22.666 3db4 Table #4: 2 entries OK
-2026/02/09-17:41:22.667 3db4 Archiving C:\Edu\JAVA\Git_GitHub\Git_work\GitTest_306\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Site Characteristics Database/MANIFEST-000001: OK
-2026/02/09-17:41:22.671 3db4 **** Repaired leveldb C:\Edu\JAVA\Git_GitHub\Git_work\GitTest_306\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Site Characteristics Database; recovered 1 files; 191 bytes. Some data may have been lost. ****
